@@ -1,0 +1,7 @@
+E:\C#\online\W04\Mang1chieu\timmaxtrongmang2chieu\timmaxtrongmang2chieu\bin\Debug\timmaxtrongmang2chieu.exe.config
+E:\C#\online\W04\Mang1chieu\timmaxtrongmang2chieu\timmaxtrongmang2chieu\bin\Debug\timmaxtrongmang2chieu.exe
+E:\C#\online\W04\Mang1chieu\timmaxtrongmang2chieu\timmaxtrongmang2chieu\bin\Debug\timmaxtrongmang2chieu.pdb
+E:\C#\online\W04\Mang1chieu\timmaxtrongmang2chieu\timmaxtrongmang2chieu\obj\Debug\baitap_timmaxtrongmang2chieu.csproj.AssemblyReference.cache
+E:\C#\online\W04\Mang1chieu\timmaxtrongmang2chieu\timmaxtrongmang2chieu\obj\Debug\baitap_timmaxtrongmang2chieu.csproj.CoreCompileInputs.cache
+E:\C#\online\W04\Mang1chieu\timmaxtrongmang2chieu\timmaxtrongmang2chieu\obj\Debug\timmaxtrongmang2chieu.exe
+E:\C#\online\W04\Mang1chieu\timmaxtrongmang2chieu\timmaxtrongmang2chieu\obj\Debug\timmaxtrongmang2chieu.pdb
